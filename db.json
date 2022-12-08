@@ -41,44 +41,12 @@
       "comment": "Perfect for a cold night."
     },
     {
-      "id": 6,
-      "name": "",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": ""
-    },
-    {
-      "id": 7,
-      "name": "",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": ""
-    },
-    {
-      "id": 8,
-      "name": "",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": ""
-    },
-    {
-      "id": 9,
-      "name": "",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": ""
-    },
-    {
-      "id": 10,
-      "name": "",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": ""
+      "name": "Chicken ramen",
+      "restaurant": "El Mando Eats",
+      "image": "https://images.themodernproper.com/billowy-turkey/production/posts/2018/easy-chicken-ramen-soup-9.jpg?w=1200&auto=compress%2Cformat&fit=crop&dm=1599771072&s=882ef30b867024847ad03db0edad3c5f",
+      "rating": "8",
+      "comment": "tasty",
+      "id": 6
     }
   ]
 }
